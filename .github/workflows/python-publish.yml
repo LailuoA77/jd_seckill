@@ -27,4 +27,4 @@ jobs:
     - name: Build and publish
       env:
       run: |
-        python main.py
+        python ./main.py
